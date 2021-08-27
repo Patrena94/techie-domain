@@ -1,5 +1,5 @@
 {
-  "name": "stack-underflow",
+  "name": "techie-domain",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -25,13 +25,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Patrena94/stack-underflow.git"
+    "url": "git+https://github.com/Patrena94/techie-domain.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Patrena94/stack-underflow/issues"
+    "url": "https://github.com/Patrena94/techie-domain/issues"
   },
-  "homepage": "https://github.com/Patrena94/stack-underflow#readme"
+  "homepage": "https://github.com/Patrena94/techie-domain#readme"
 }

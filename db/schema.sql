@@ -1,8 +1,8 @@
 -- DROP DATABASE
-DROP DATABASE IF EXISTS stack_underflow_db;
+DROP DATABASE IF EXISTS techie_domain_db;
 
 -- CREATE DATABASE
-CREATE DATABASE stack_underflow_db;
+CREATE DATABASE techie_domain_db;
 
 -- -- USE
 -- USE 
